@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 👯 I’m looking to collaborate on privacy and security initiatives.
+- 🌱 I’m currently learning CCSP, PMP and an MBA.
+- 💬 Ask me about any privacy and security related topics.
+- 📫 How to reach me: ytian05@beckman.com
 <!--
 **ytian05/ytian05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
